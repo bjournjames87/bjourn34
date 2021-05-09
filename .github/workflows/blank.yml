@@ -1,6 +1,6 @@
 name: SIMPLE
 
-on: workflow
+on: desktop
 
 jobs:
 
