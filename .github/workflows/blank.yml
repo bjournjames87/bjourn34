@@ -1,6 +1,6 @@
 name: CI
 
-on: desktop
+on: workflow_dispatch
 
 jobs:
 
